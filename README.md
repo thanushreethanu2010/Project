@@ -1,5 +1,5 @@
 # Project
-College database
-Student name <br>
+College database <br>
+Student name 
 Student registerno
 
